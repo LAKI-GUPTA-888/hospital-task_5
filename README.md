@@ -17,7 +17,7 @@ The goal is to retrieve combined data from multiple related tables.
 ## How to Run
 1. Ensure your hospital schema from Task 1 is available.
 2. Open MySQL Workbench or DB Fiddle.
-3. Copy and execute the queries in `task5.sql`.
+3. Copy and execute the queries in `Hospital_task_5.sql`.
 ---
 
 ## Files
